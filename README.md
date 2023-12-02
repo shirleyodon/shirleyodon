@@ -20,6 +20,7 @@
 
 <br><br>
 To reach me:
+  <br>
   📧 tafitashirleyodon@gmail.com
   <br>
   🔗 https://www.linkedin.com/in/shirleyodon
