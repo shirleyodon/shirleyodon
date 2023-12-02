@@ -1,20 +1,29 @@
-🔥🔥A computer systems and networks engineer, I cultivate a keen interest in web development, unifying passion and skills in my transition to DevOps🔥🔥
+🔥 Passionate system and network administrator, I strive to merge technical expertise and overflowing enthusiasm to progress towards excellence as a DevOps expert. 🔥
 
-- 👋 Hi, I'm Shirley
-- 🎓 I'm a Master II student at ENI, specializing in systems and networks admin
-- 🚀 My adventure began with a solid foundation, but curiosity led me to web development
-- 🌱 With a mastery of HTML, CSS, JS and Python Flask, I'm combining these talents with systems expertise to become a DevOps engineer
-- 🔄 This convergence inspires me, optimizing processes and software delivery
-- 📚 I eagerly learn Docker, Kubernetes, Github Actions, Terraform and AWS Cloud services creating solid environments
-- 🌈 My varied background underlines my dedication to tech innovation
-- ✨ I look forward to contributing to the tech landscape and meeting the challenges of DevOps
+- 👋 Hi, I'm Shirley.
+- 🎓 Master's student at the National School of Computer Science in Madagascar, specializing in systems and networks administration.
+- 📚 Enthusiastic about software development, process automation, continuous delivery, and cloud infrastructure administration.
+- 🌱 My journey has naturally led me to the DevOps universe, where I thrive.
+- 🎯 My goal: to become an expert in the field of DevOps.
+- 🧠 Strongly committed to continuous learning and tackling technical challenges.
+- 🚀 Always on the lookout for opportunities to enhance my skills.
+- 🤝 This space is dedicated to sharing my projects, contributions, and open collaboration.
+<br>
+
+🔧 Skills:
+- Software development
+- Process automation
+- Continuous integration and deployment
+- Management of cloud infrastructure and services
+- System and network administration
+- Self-taught
 
 <br><br>
 To reach me:
   📧 tafitashirleyodon@gmail.com
   🔗 https://www.linkedin.com/in/shirleyodon
-<br><br>
 
+<br><br>
 --> To the pleasure of exchanging and/or collaborating together <--
 
 <!--
