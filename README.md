@@ -21,6 +21,7 @@
 <br><br>
 To reach me:
   📧 tafitashirleyodon@gmail.com
+  <br>
   🔗 https://www.linkedin.com/in/shirleyodon
 
 <br><br>
